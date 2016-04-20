@@ -17,3 +17,11 @@ NaN
 "" //빈문자열
 위 여섯가지는 false
 
+
+null과 undefined
+null은 객체가 아님/값이 없음을 뜻하는 특수한 객체 (즉, typeof 연산자를 사용하면 "object"를 반환)
+
+
+숫자로 변환
+true ->1
+false, "" -> 0
